@@ -1,0 +1,1 @@
+These are some of my Python Jupyter Notebook (.ipynb) scripts for ETL processes, including web scraping, data cleaning, and data transformation for product uploading in Shopify. I have selected 7 brands or e-commerce websites from over 80 scripts that I have created.
